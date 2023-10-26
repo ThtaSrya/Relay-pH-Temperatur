@@ -56,5 +56,5 @@ menggunakan kabel jumper male to female.
 CATATAN :
 Disini saya hanya menggunakan 2 channel dari modul relay dikarenakan kurangnya arus pada komputer saya, jika anda memiliki modul relay 2 channel sebaiknya menggunakan itu saja.
 
-ANDA PUNYA RELAY 4 CHANNEL,ANDA PUNYA KUASA😐🤨
+ANDA PUNYA RELAY 4 CHANNEL, ANDA PUNYA KUASA😐🤨
 
